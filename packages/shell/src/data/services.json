@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": "booking",
+            "title": "Booking"
+        },
+        {
+            "id": "playbooks",
+            "title": "PlayBooks"
+        },
+        {
+            "id": "shopping",
+            "title": "Shopping"
+        },
+        {
+            "id": "news",
+            "title": "News and articles"
+        },
+        {
+            "id": "dashboard",
+            "title": "Dashboard"
+        }
+    ]
+}

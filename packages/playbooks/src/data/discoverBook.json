@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "category": "Category",
+            "photos": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT48dvQ62mhbYukQ2E0Z6b1Cnc6aY_p8PQMB0aHuK2B-9p4kL5O"
+            
+        },
+        {
+            "id": "2",
+            "category": "Best Seller",
+            "photos": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT48dvQ62mhbYukQ2E0Z6b1Cnc6aY_p8PQMB0aHuK2B-9p4kL5O"
+        },
+        {
+            "id": "3",
+            "category": "New Establish",
+            "photos": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT48dvQ62mhbYukQ2E0Z6b1Cnc6aY_p8PQMB0aHuK2B-9p4kL5O"
+        },
+        {
+            "id": "4",
+            "category": "Romantic",
+            "photos": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT48dvQ62mhbYukQ2E0Z6b1Cnc6aY_p8PQMB0aHuK2B-9p4kL5O"
+        } 
+    ]
+}

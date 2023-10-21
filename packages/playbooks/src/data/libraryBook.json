@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "category": "Historical",
+            "title": "The Boy in the Striped Pajamas",
+            "price": "$15",
+            "type": "Ebook",
+            "author": "John Boyne",
+            "photos": "https://www.pluggedin.com/wp-content/uploads/2020/01/boy-in-striped-pajamas-cover.jpg",
+            "desc":"The story is told from the viewpoint of a 9-year-old German boy named Bruno. Bruno is the privileged son of a Nazi commandant during World War II. Bruno comes home from school one afternoon to discover his belongings packed and set near the door. His family is preparing to relocate from Berlin to a place Bruno believes is called Out-With. In reality, his father will be in charge of the prison camp Auschwitz."
+        },
+        {
+            "id": "2",
+            "category": "Physic",
+            "title": "The Universe in a Nutshell",
+            "price": "$30",
+            "type": "Ebook",
+            "author": "Stephen Hawking",
+            "photos": "https://m.media-amazon.com/images/I/61MEGY6i4aL._AC_UF1000,1000_QL80_.jpg",
+            "desc": "Stephen Hawking’s phenomenal, multimillion-copy bestseller, A Brief History of Time, introduced the ideas of this brilliant theoretical physicist to readers all over the world."
+        },
+        {
+            "id": "3",
+            "category": "Novel",
+            "title": "O Alquimist",
+            "price": "$22",
+            "type": "Audio Book",
+            "author": "Paulo Coelho",
+            "photos": "https://www.elleman.vn/wp-content/uploads/2016/05/30/10-bai-hoc-dat-gia-tu-nha-gia-kim-elleman.jpg",
+            "desc": "Nhà giả kim (tựa gốc tiếng Bồ Đào Nha: O Alquimista) là tiểu thuyết được xuất bản lần đầu ở Brasil năm 1988"
+        },
+        {
+            "id": "4",
+            "category": "Novel",
+            "title": "Twilight",
+            "price": "$20",
+            "type": "Ebook",
+            "author": "Stephenie Meyer",
+            "photos": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_.jpg",
+            "desc": "Isabella Bella Swan, một thiếu nữ vừa chuyển tới Forks, Washington, và rẽ ngoặt cuộc đời khi sa vào tình yêu với Edward Cullen - một ma cà rồng"
+        },
+        {
+            "id": "5",
+            "category": "Comic",
+            "title": "Conan Detective",
+            "price": "$50",
+            "type": "Ebook",
+            "author": "Aoyama Gōshō",
+            "photos": "https://m.media-amazon.com/images/M/MV5BZmMxNGE0YjEtYTVkMC00ZGVjLWI3OTEtODY0N2I0NGU0ZjQ0XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+            "desc": " Truyện xoay quanh một cậu thám tử trung học có tên là Kudo Shinichi trong lúc đang điều tra một Tổ chức Áo đen bí ẩn đã bị ép phải uống một loại thuốc độc có thể gây chết người. May mắn là cậu đã sống sót nhưng cơ thể thì lại bị teo nhỏ như một đứa bé 6 tuổi. Kể từ đó để tránh bị lộ thân phận thực sự của mình, cậu đã lấy tên là Edogawa Conan và chuyển đến sống ở nhà của cô bạn thời thơ ấu Mori Ran cùng với bố của cô ấy là một thám tử tư tên Mori Kogoro với hy vọng một ngày nào đó cậu có thể hạ gục Tổ chức Áo Đen và lấy lại hình dáng ban đầu."
+        },
+        {
+            "id": "6",
+            "category": "Legend",
+            "title": "Con rồng cháu tiên",
+            "price": "$30",
+            "type": "Audio Book",
+            "author": "Many author",
+            "photos": "https://upload.wikimedia.org/wikipedia/vi/0/01/%C3%81p_ph%C3%ADch_phim_Con_R%E1%BB%93ng_ch%C3%A1u_Ti%C3%AAn.jpg",
+            "desc": "Con Rồng cháu Tiên là một truyền thuyết Việt Nam nói về xuất thân của người Việt. Trong cách gọi này, Rồng chỉ Lạc Long Quân và Tiên chỉ Âu Cơ."
+        }, 
+        {
+            "id": "7",
+            "category": "Novel",
+            "title": "The Lord of the Rings",
+            "price": "$50",
+            "type": "Ebook",
+            "author": "J.R.R.Tolkien",
+            "photos": "https://moviesmedia.ign.com/movies/image/object/487/487665/lotr_the-return-of-the-king_poster.jpg",
+            "desc": "Chúa tể những chiếc nhẫn: Sự trở lại của nhà vua (The Lord of the Rings: The Return of the King)"
+        }     
+    ]
+}

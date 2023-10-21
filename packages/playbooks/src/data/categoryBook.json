@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "category": "Business",
+            "photos": "https://kansaspreventioncollaborative.org/wp-content/uploads/2021/02/6-1.png"
+        },
+        {
+            "id": "2",
+            "category": "Physic",
+            "photos": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT48dvQ62mhbYukQ2E0Z6b1Cnc6aY_p8PQMB0aHuK2B-9p4kL5O"
+        },
+        {
+            "id": "3",
+            "category": "Comic",
+            "photos": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT48dvQ62mhbYukQ2E0Z6b1Cnc6aY_p8PQMB0aHuK2B-9p4kL5O"
+        },
+        {
+            "id": "5",
+            "category": "Novel",
+            "photos": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT48dvQ62mhbYukQ2E0Z6b1Cnc6aY_p8PQMB0aHuK2B-9p4kL5O"
+        }
+    ]
+}

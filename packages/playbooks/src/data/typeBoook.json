@@ -1,0 +1,96 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "type": "Ebook",
+            "category": [
+                {
+                    "id":"1",
+                    "catgname": "Travel"
+                },
+                {
+                    "id":"2",
+                    "catgname": "Novel"
+                },
+                {
+                    "id":"3",
+                    "catgname": "Science"
+                },
+                {
+                    "id":"4",
+                    "catgname": "History"
+                },
+                {
+                    "id":"5",
+                    "catgname": "Food"
+                },
+                {
+                    "id":"6",
+                    "catgname": "Art"
+                },
+                {
+                    "id":"7",
+                    "catgname": "Language"
+                },
+                {
+                    "id":"8",
+                    "catgname": "Computer"
+                },
+                {
+                    "id":"9",
+                    "catgname": "Business"
+                },
+                {
+                    "id":"10",
+                    "catgname": "Math"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "type": "AudioBook",
+            "category": [
+                {
+                    "id":"1",
+                    "catgname": "History"
+                },
+                {
+                    "id":"2",
+                    "catgname": "Novel"
+                },
+                {
+                    "id":"3",
+                    "catgname": "Science"
+                },
+                {
+                    "id":"4",
+                    "catgname": "Travel"
+                },
+                {
+                    "id":"5",
+                    "catgname": "Food"
+                },
+                {
+                    "id":"6",
+                    "catgname": "Computer"
+                },
+                {
+                    "id":"7",
+                    "catgname": "Language"
+                },
+                {
+                    "id":"8",
+                    "catgname": "Art"
+                },
+                {
+                    "id":"9",
+                    "catgname": "Business"
+                },
+                {
+                    "id":"10",
+                    "catgname": "Math"
+                }
+            ]
+        }
+    ]
+}
